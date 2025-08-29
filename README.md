@@ -15,7 +15,8 @@ Bem-vindo ao seu primeiro app em **SwiftUI**! Este é um projeto simples, porém
 
 ## 📷 Captura de Tela
 
-![App Contador](Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-08-29%20at%2013.02.26.png)
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-29 at 13 02 26" src="https://github.com/user-attachments/assets/c1b1de35-e3fb-4b22-8720-b7b088a6dee4" />
+
 
 ---
 
